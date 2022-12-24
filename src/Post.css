@@ -3,3 +3,18 @@
     object-fit: contain;
     
 }
+
+.Post_text {
+    font-weight: normal;
+    padding: 20px;
+}
+
+.post_header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.Post_Avatar {
+    margin: 10px;
+}
